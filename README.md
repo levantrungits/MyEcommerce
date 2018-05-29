@@ -1,4 +1,4 @@
-# MyEcommerce
+# MyEcommerce - https://www.snapdeal.com/
 My e-ecommerce: Django 2.x - Python 3.x
 
 # CLI
